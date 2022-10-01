@@ -3,3 +3,5 @@ Gerador de CC bem básico feito em lua a pedido de alguns amigos meus que funcio
 Para utilizar e so ter o [Lua](https://www.lua.org/download.html) instalado no seu computador e executar os seguintes comandos:
 - lua54
 - dofile("geradordecc.lua")
+
+Não me responsabilizo pelos seus atos com essa ferramenta.
